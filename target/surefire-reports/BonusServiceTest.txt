@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: BonusServiceTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.045 s <<< FAILURE! - in BonusServiceTest
+shouldCalculateRegisteredAndOverLimit  Time elapsed: 0.012 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <300> but was: <500>
+	at BonusServiceTest.shouldCalculateRegisteredAndOverLimit(BonusServiceTest.java:28)
+
